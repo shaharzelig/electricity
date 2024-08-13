@@ -19,7 +19,7 @@ function processFiles() {
 
 // Fetch the discount data from the server
 function fetchDiscountData(csvData) {
-    fetch('/discounts.json')
+    fetch('./discounts.json')
         .then(response => {
             if (!response.ok) {
                 throw new Error('Network response was not ok ' + response.statusText);
