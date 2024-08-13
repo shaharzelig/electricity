@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Paz Gaz 7%",
+        "start_time": "00:00",
+        "end_time": "23:59",
+        "discount_percentage": 7,
+        "start_day": "Sunday",
+        "end_day": "Saturday"
+    },
+    {
+        "name": "Electra power hitech 8-10%",
+        "start_time": "23:00",
+        "end_time": "17:00",
+        "discount_percentage": 8,
+        "start_day": "Sunday",
+        "end_day": "Saturday"
+    },
+    {
+        "name": "Electra power Power 5-7%",
+        "start_time": "23:00",
+        "end_time": "17:00",
+        "discount_percentage": 5,
+        "start_day": "Sunday",
+        "end_day": "Saturday"
+    },
+    {
+        "name": "Electra power night 20%",
+        "start_time": "23:00",
+        "end_time": "07:00",
+        "discount_percentage": 20,
+        "start_day": "Sunday",
+        "end_day": "Saturday"
+    },
+    {
+        "name": "Cellcom Energy all time 5-7%",
+        "start_time": "00:00",
+        "end_time": "23:59",
+        "discount_percentage": 5,
+        "start_day": "Sunday",
+        "end_day": "Saturday"
+    },
+    {
+        "name": "Cellcom Energy day saving 15%",
+        "start_time": "07:00",
+        "end_time": "17:00",
+        "discount_percentage": 15,
+        "start_day": "Sunday",
+        "end_day": "Thursday"
+    },
+    {
+        "name": "Cellcom Energy Family Saving 18%",
+        "start_time": "14:00",
+        "end_time": "20:00",
+        "discount_percentage": 18,
+        "start_day": "Sunday",
+        "end_day": "Saturday"
+    },
+    {
+        "name": "Cellcom Energy night saving 20%",
+        "start_time": "23:00",
+        "end_time": "07:00",
+        "discount_percentage": 20,
+        "start_day": "Sunday",
+        "end_day": "Saturday"
+    },
+    {
+        "name": "Amisra Gas all day 7%",
+        "start_time": "00:00",
+        "end_time": "23:59",
+        "discount_percentage": 7,
+        "start_day": "Sunday",
+        "end_day": "Saturday"
+    },
+    {
+        "name": "Partner all day 5-7%",
+        "start_time": "00:00",
+        "end_time": "23:59",
+        "discount_percentage": 5,
+        "start_day": "Sunday",
+        "end_day": "Saturday"
+    },
+    {
+        "name": "Partner wrokign from home 15%",
+        "start_time": "08:00",
+        "end_time": "17:00",
+        "discount_percentage": 15,
+        "start_day": "Sunday",
+        "end_day": "Thursday"
+    },
+    {
+        "name": "Partner night 20%",
+        "start_time": "00:00",
+        "end_time": "06:00",
+        "discount_percentage": 20,
+        "start_day": "Sunday",
+        "end_day": "Thursday"
+    },
+    {
+        "name": "Bezeq day saving 15%",
+        "start_time": "07:00",
+        "end_time": "17:00",
+        "discount_percentage": 15,
+        "start_day": "Sunday",
+        "end_day": "Thursday"
+    },
+    {
+        "name": "Bezeq night saving 20%",
+        "start_time": "23:00",
+        "end_time": "07:00",
+        "discount_percentage": 20,
+        "start_day": "Sunday",
+        "end_day": "Thursday"
+    },
+    {
+        "name": "Bezeq 24/7 7%",
+        "start_time": "00:00",
+        "end_time": "23:59",
+        "discount_percentage": 7,
+        "start_day": "Sunday",
+        "end_day": "Saturday"
+    },
+    {
+        "name": "Hot 24/7 5-7%",
+        "start_time": "00:00",
+        "end_time": "23:59",
+        "discount_percentage": 5,
+        "start_day": "Sunday",
+        "end_day": "Saturday"
+    },
+    {
+        "name": "Hot night 20%",
+        "start_time": "23:00",
+        "end_time": "07:00",
+        "discount_percentage": 5,
+        "start_day": "Sunday",
+        "end_day": "Thursday"
+    },
+    {
+        "name": "Hot day saving 15%",
+        "start_time": "07:00",
+        "end_time": "17:00",
+        "discount_percentage": 15,
+        "start_day": "Sunday",
+        "end_day": "Thursday"
+    }
+]
